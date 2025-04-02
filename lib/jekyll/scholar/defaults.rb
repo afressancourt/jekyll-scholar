@@ -90,6 +90,8 @@ module Jekyll
         'techreport' => 'Technical Reports',
         'misc' => 'Miscellaneous',
         'unpublished' => 'Unpublished',
+        'ietfdraft' => 'IETF drafts',
+        'unpublished' => 'IETF RFCs',
       },
       'type_aliases' => {
         'phdthesis' => 'thesis',
